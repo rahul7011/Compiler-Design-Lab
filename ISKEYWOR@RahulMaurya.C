@@ -6,6 +6,9 @@ char str[100];
 int i,j,flag=1,count=0;
 char a[20][100]={"int","char","float","const","double","struct","long","if","else","switch","printf","scanf","string","return","continue","break","goto","strcpy","strcmp","case"};
 clrscr();
+printf("Name:Rahul Maurya \n");
+printf("Roll No.:1901330100210 \n");
+printf("Branch/Section: C.S.E. ,5 C \n");
 printf("Enter a string-");
 scanf("%s",&str);
 for(i=0;i<7;i++)
